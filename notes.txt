@@ -1,0 +1,21 @@
+--------------------------------SIL HIGH, SEP LOW ----------------
+       KMeans (5 clusters)
+    -> Min Max <-      ZScore
+SSE:   311.587         7567.941
+SIL:   0.51871         0.5178
+SEP:   0.83            0.84
+
+       H.C. Euclidean ward (Min Max)
+SIL:   0.4671
+SEP:   0.8952
+CLUST: 3
+
+       H.C. Cosine centroid (ZScore)
+SIL:   0.4638
+SEP:   0.8821
+CLUST: 3
+
+                      SIL       SEP
+Cosine centroid       0.4638    0.8821 <-
+Euclidean ward        0.4542    0.9264
+Cosine average        0.4603    0.9104
